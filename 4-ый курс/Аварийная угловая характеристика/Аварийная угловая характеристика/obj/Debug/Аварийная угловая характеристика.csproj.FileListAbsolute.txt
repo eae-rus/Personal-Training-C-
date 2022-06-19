@@ -1,0 +1,9 @@
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\bin\Debug\Аварийная угловая характеристика.exe.config
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\bin\Debug\Аварийная угловая характеристика.exe
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\bin\Debug\Аварийная угловая характеристика.pdb
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная угловая характеристика.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная_угловая_характеристика.Form1.resources
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная_угловая_характеристика.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная угловая характеристика.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная угловая характеристика.exe
+c:\users\алексей\documents\visual studio 2017\Projects\Аварийная угловая характеристика\Аварийная угловая характеристика\obj\Debug\Аварийная угловая характеристика.pdb
