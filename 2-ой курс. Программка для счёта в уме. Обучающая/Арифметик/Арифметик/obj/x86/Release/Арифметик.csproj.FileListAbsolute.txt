@@ -1,0 +1,22 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\bin\Release\Арифметик.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\bin\Release\Арифметик.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\Арифметик.Арифметик.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\Арифметик.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\Арифметик.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Release\Арифметик.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\bin\Release\Арифметик.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\bin\Release\Арифметик.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.Арифметик.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.pdb
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\bin\Release\Арифметик.exe.manifest
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\bin\Release\Арифметик.application
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.exe.manifest
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Release\Арифметик.application

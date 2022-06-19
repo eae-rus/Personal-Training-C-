@@ -1,0 +1,24 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\bin\Debug\Арифметик.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\bin\Debug\Арифметик.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\Арифметик.Арифметик.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\Арифметик.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\Арифметик.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Арифметик\obj\x86\Debug\Арифметик.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\bin\Debug\Арифметик.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\bin\Debug\Арифметик.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.Арифметик.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\bin\Debug\Арифметик.exe.manifest
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\bin\Debug\Арифметик.application
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.exe.manifest
+C:\Users\Алексей\documents\visual studio 2010\Projects\Арифметик\Арифметик\obj\x86\Debug\Арифметик.application
+D:\OneDrive\Програмирование\С#\Работающие проекты, которые стоят того\Арифметик\Арифметик\obj\x86\Debug\Арифметик.exe
+D:\OneDrive\Програмирование\С#\Работающие проекты, которые стоят того\Арифметик\Арифметик\obj\x86\Debug\Арифметик.pdb
