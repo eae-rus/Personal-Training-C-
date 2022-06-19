@@ -1,0 +1,75 @@
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+C:\Users\Алексей\Desktop\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+D:\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Form_CLU.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.nelen_sist.resources
+D:\OneDrive\Учебное\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.ODU.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Form_CLU.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.nelen_sist.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.ODU.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+E:\Архивное\Учебное\3 семестр\Вычмат\Задания\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Form_CLU.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.nelen_sist.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.ODU.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Prokt.Urav.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Vichmat_Proekt.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс, Вычмат, интегралы и т.д\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb

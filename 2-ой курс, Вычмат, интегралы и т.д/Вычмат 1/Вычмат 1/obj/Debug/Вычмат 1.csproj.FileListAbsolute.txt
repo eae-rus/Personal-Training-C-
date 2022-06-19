@@ -1,0 +1,11 @@
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe.config
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\bin\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.exe
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат 1.pdb
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vichmat.Forma_int.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Vicmat_G.Glav_Form.resources
+C:\Users\Алексей\Desktop\Вычмат\Интегралы\Вычмат 1\Вычмат 1\obj\Debug\Вычмат_1.Urav.resources
