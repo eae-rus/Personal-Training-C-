@@ -1,0 +1,11 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\массив_3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\bin\Debug\массив_3.exe
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\bin\Debug\массив_3.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Debug\массив_3.exe
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Debug\массив_3.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\массив_3\массив_3\bin\Debug\массив_3.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\массив_3\массив_3\bin\Debug\массив_3.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\массив_3\массив_3\obj\x86\Debug\массив_3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\массив_3\массив_3\obj\x86\Debug\массив_3.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\массив_3\массив_3\obj\x86\Debug\массив_3.pdb

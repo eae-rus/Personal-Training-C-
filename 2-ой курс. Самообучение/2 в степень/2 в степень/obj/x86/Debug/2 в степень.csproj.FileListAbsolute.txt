@@ -1,0 +1,8 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\bin\Debug\2 в степень.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\bin\Debug\2 в степень.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Debug\2 в степень.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Debug\2 в степень.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2 в степень\2 в степень\obj\x86\Debug\2 в степень.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2 в степень\2 в степень\obj\x86\Debug\2 в степень.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2 в степень\2 в степень\obj\x86\Debug\2 в степень.exe

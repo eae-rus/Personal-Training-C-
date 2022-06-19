@@ -1,0 +1,19 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\bin\Debug\Помощь парням.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\bin\Debug\Помощь парням.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\Помощь_парням.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\Помощь_парням.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\Помощь парням.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Debug\Помощь парням.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\bin\Debug\Помощь парням.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\bin\Debug\Помощь парням.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь_парням.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь_парням.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Помощь парням\Помощь парням\obj\x86\Debug\Помощь парням.pdb

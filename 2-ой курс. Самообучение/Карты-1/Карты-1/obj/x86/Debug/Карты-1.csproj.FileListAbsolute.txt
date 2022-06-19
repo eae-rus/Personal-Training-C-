@@ -1,0 +1,11 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\bin\Debug\Карты-1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\bin\Debug\Карты-1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\Карты_1.Рандом_карт.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\Карты_1.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\Карты-1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Debug\Карты-1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Debug\Карты-1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Debug\Карты-1.pdb

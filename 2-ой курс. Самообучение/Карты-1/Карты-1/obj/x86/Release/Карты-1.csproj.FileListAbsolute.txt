@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\bin\Release\Карты-1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\bin\Release\Карты-1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\Карты_1.Рандом_карт.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\Карты_1.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\Карты-1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Карты-1\obj\x86\Release\Карты-1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\bin\Release\Карты-1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\bin\Release\Карты-1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\Карты_1.Рандом_карт.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\Карты_1.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\Карты-1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Карты-1\Карты-1\obj\x86\Release\Карты-1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\bin\Release\Карты-1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\bin\Release\Карты-1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты-1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты_1.Рандом_карт.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты_1.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты-1.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты-1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Карты-1\Карты-1\obj\x86\Release\Карты-1.pdb

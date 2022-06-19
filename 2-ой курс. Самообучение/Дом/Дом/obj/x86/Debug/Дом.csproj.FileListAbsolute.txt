@@ -1,0 +1,9 @@
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\bin\Debug\Дом.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\bin\Debug\Дом.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\Дом.Описание_помещения.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\Дом.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\Дом.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Debug\Дом.pdb

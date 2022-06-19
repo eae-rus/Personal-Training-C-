@@ -1,0 +1,11 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\bin\Debug\2_яркое.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\bin\Debug\2_яркое.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\_2_яркое.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\_2_яркое.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\2_яркое.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Debug\2_яркое.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\2_яркое\2_яркое\obj\x86\Debug\2_яркое.exe
+c:\users\алексей\documents\visual studio 2010\Projects\2_яркое\2_яркое\obj\x86\Debug\2_яркое.pdb

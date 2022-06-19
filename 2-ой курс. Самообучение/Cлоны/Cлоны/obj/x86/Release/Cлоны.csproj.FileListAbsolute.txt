@@ -1,0 +1,18 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\bin\Release\Cлоны.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\bin\Release\Cлоны.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\Cлоны.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\Cлоны.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\Cлоны.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Release\Cлоны.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\bin\Release\Cлоны.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\bin\Release\Cлоны.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\Cлоны.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\Cлоны.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\Cлоны.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Release\Cлоны.pdb

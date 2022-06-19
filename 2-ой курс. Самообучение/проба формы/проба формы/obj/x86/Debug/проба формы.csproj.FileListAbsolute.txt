@@ -1,0 +1,17 @@
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\bin\Debug\проба формы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\bin\Debug\проба формы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\проба формы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\проба формы\проба формы\obj\x86\Debug\проба формы.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\bin\Debug\проба формы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\bin\Debug\проба формы.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\проба формы.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\проба формы.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\проба формы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба формы\проба формы\obj\x86\Debug\проба формы.pdb

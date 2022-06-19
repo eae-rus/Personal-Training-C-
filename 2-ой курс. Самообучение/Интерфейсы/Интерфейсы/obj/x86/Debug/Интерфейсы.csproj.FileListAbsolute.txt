@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\bin\Debug\Интерфейсы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\bin\Debug\Интерфейсы.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\Интерфейсы.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\Интерфейсы.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\Интерфейсы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Debug\Интерфейсы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\bin\Debug\Интерфейсы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\bin\Debug\Интерфейсы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\bin\Debug\Интерфейсы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\bin\Debug\Интерфейсы.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Интерфейсы\Интерфейсы\obj\x86\Debug\Интерфейсы.pdb

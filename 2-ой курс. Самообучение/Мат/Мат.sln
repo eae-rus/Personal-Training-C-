@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Мат", "Мат\Мат.csproj", "{B8763539-45E5-418D-8AA2-CAE96FD98484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Мат-проба", "Мат-проба\Мат-проба.csproj", "{5627B546-90D9-40D3-A9B0-5283C6EEB950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8763539-45E5-418D-8AA2-CAE96FD98484}.Debug|x86.ActiveCfg = Debug|x86
+		{B8763539-45E5-418D-8AA2-CAE96FD98484}.Debug|x86.Build.0 = Debug|x86
+		{B8763539-45E5-418D-8AA2-CAE96FD98484}.Release|x86.ActiveCfg = Release|x86
+		{B8763539-45E5-418D-8AA2-CAE96FD98484}.Release|x86.Build.0 = Release|x86
+		{5627B546-90D9-40D3-A9B0-5283C6EEB950}.Debug|x86.ActiveCfg = Debug|x86
+		{5627B546-90D9-40D3-A9B0-5283C6EEB950}.Debug|x86.Build.0 = Debug|x86
+		{5627B546-90D9-40D3-A9B0-5283C6EEB950}.Release|x86.ActiveCfg = Release|x86
+		{5627B546-90D9-40D3-A9B0-5283C6EEB950}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

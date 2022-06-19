@@ -1,0 +1,9 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\bin\Release\Игра1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\bin\Release\Игра1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\Игра1.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\Игра1.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\Игра1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Release\Игра1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\4_2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\4_2\bin\Release\4_2.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\4_2\bin\Release\4_2.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\4_2\obj\x86\Release\4_2.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\4_2\obj\x86\Release\4_2.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\4_2\4_2\bin\Release\4_2.exe
+c:\users\алексей\documents\visual studio 2010\Projects\4_2\4_2\bin\Release\4_2.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\4_2\4_2\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\4_2\4_2\obj\x86\Release\4_2.exe
+c:\users\алексей\documents\visual studio 2010\Projects\4_2\4_2\obj\x86\Release\4_2.pdb

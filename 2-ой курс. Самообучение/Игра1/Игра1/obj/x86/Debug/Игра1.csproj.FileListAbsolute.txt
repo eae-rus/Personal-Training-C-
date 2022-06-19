@@ -1,0 +1,17 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\bin\Debug\Игра1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\bin\Debug\Игра1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\Игра1.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\Игра1.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\Игра1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Игра1\obj\x86\Debug\Игра1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\bin\Debug\Игра1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\bin\Debug\Игра1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Игра1\Игра1\obj\x86\Debug\Игра1.pdb

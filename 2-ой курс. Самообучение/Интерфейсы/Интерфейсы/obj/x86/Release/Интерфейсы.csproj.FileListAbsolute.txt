@@ -1,0 +1,18 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\bin\Release\Интерфейсы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\bin\Release\Интерфейсы.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\Интерфейсы.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\Интерфейсы.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\Интерфейсы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Интерфейсы\obj\x86\Release\Интерфейсы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\Интерфейсы.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\Интерфейсы.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\Интерфейсы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\obj\x86\Release\Интерфейсы.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\bin\Release\Интерфейсы.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Интерфейсы\Интерфейсы\bin\Release\Интерфейсы.pdb

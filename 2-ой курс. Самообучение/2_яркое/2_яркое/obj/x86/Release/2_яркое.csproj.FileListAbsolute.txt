@@ -1,0 +1,30 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\bin\Release\2_яркое.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\bin\Release\2_яркое.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\_2_яркое.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\_2_яркое.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\2_яркое.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_яркое\obj\x86\Release\2_яркое.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\bin\Release\2_яркое.exe.manifest
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\bin\Release\2_яркое.application
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\bin\Release\2_яркое.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\bin\Release\2_яркое.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\_2_яркое.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\_2_яркое.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\2_яркое.exe.manifest
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\2_яркое.application
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\2_яркое.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\2_яркое\2_яркое\obj\x86\Release\2_яркое.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\bin\Release\2_яркое.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\bin\Release\2_яркое.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\2_яркое.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\_2_яркое.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\_2_яркое.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\2_яркое.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\2_яркое.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_яркое\2_яркое\obj\x86\Release\2_яркое.pdb

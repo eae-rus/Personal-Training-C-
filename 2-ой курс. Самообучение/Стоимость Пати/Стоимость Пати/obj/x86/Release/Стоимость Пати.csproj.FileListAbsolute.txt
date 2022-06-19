@@ -1,0 +1,18 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\bin\Release\Стоимость Пати.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\bin\Release\Стоимость Пати.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\Стоимость_Пати.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\Стоимость_Пати.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\Стоимость Пати.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Release\Стоимость Пати.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\bin\Release\Стоимость Пати.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\bin\Release\Стоимость Пати.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\Стоимость_Пати.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\Стоимость_Пати.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\Стоимость Пати.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Release\Стоимость Пати.pdb

@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\bin\Debug\Стоимость Пати.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\bin\Debug\Стоимость Пати.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\Стоимость Пати.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Стоимость Пати\obj\x86\Debug\Стоимость Пати.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\bin\Debug\Стоимость Пати.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\bin\Debug\Стоимость Пати.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Стоимость Пати\Стоимость Пати\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\bin\Debug\Стоимость Пати.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\bin\Debug\Стоимость Пати.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость_Пати.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Стоимость Пати\Стоимость Пати\obj\x86\Debug\Стоимость Пати.pdb

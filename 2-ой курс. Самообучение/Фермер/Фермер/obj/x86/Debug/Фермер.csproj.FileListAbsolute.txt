@@ -1,0 +1,9 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\bin\Debug\Фермер.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\bin\Debug\Фермер.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\Фермер.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\Фермер.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\Фермер.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Фермер\obj\x86\Debug\Фермер.pdb

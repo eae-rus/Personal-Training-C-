@@ -1,0 +1,24 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\bin\Debug\Cлоны.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\bin\Debug\Cлоны.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\Cлоны.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\Cлоны.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\Cлоны.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Cлоны\obj\x86\Debug\Cлоны.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\Cлоны.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\Cлоны.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\bin\Debug\Cлоны.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\bin\Debug\Cлоны.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\Cлоны.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\Cлоны.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Cлоны\Cлоны\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Cлоны\Cлоны\obj\x86\Debug\Cлоны.pdb

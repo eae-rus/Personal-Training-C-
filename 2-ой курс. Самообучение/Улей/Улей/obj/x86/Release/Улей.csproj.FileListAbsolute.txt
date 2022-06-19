@@ -1,0 +1,13 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Улей\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Улей\obj\x86\Release\Улей.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Улей\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Улей\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\bin\Release\Улей.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\bin\Release\Улей.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\Улей.Улей.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\Улей.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\Улей.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Release\Улей.pdb

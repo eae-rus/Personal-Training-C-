@@ -1,0 +1,18 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\bin\Debug\Деовой калькулятор.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\bin\Debug\Деовой калькулятор.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\Деовой_калькулятор.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\Деовой_калькулятор.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\Деовой калькулятор.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Debug\Деовой калькулятор.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\bin\Debug\Деовой калькулятор.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\bin\Debug\Деовой калькулятор.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\Деовой_калькулятор.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\Деовой_калькулятор.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\Деовой калькулятор.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Debug\Деовой калькулятор.pdb

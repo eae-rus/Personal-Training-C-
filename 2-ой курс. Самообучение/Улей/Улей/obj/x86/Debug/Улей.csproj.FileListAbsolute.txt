@@ -1,0 +1,17 @@
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\bin\Debug\Улей.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\bin\Debug\Улей.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\Улей.Улей.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\Улей.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\Улей.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Улей\Улей\obj\x86\Debug\Улей.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\bin\Debug\Улей.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\bin\Debug\Улей.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.Улей.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Мусор - простые программки, учился\Улей\Улей\obj\x86\Debug\Улей.pdb

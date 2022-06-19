@@ -1,0 +1,5 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\bin\Release\Консоль, проба.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\bin\Release\Консоль, проба.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Release\Консоль, проба.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Release\Консоль, проба.pdb

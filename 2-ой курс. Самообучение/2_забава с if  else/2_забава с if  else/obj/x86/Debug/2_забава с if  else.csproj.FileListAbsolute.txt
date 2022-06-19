@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\bin\Debug\2_забава с if  else.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\bin\Debug\2_забава с if  else.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\2_забава с if  else.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Debug\2_забава с if  else.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.exe
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\bin\Debug\2_забава с if  else.exe
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\bin\Debug\2_забава с if  else.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\2_забава с if  else\2_забава с if  else\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\bin\Debug\2_забава с if  else.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\bin\Debug\2_забава с if  else.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\_2_забава_с_if__else.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\2_забава с if  else\2_забава с if  else\obj\x86\Debug\2_забава с if  else.pdb

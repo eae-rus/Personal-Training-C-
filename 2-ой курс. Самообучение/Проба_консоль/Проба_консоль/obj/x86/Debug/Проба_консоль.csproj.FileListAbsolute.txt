@@ -1,0 +1,15 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Debug\Консоль, проба.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Debug\Консоль, проба.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\bin\Debug\Консоль, проба.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\bin\Debug\Консоль, проба.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Консоль, проба\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Проба_консоль\Проба_консоль\bin\Debug\Проба_консоль.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Проба_консоль\Проба_консоль\bin\Debug\Проба_консоль.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Проба_консоль\Проба_консоль\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Проба_консоль\Проба_консоль\obj\x86\Debug\Проба_консоль.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Проба_консоль\Проба_консоль\obj\x86\Debug\Проба_консоль.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Проба_консоль\Проба_консоль\bin\Debug\Проба_консоль.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Проба_консоль\Проба_консоль\bin\Debug\Проба_консоль.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Проба_консоль\Проба_консоль\obj\x86\Debug\Проба_консоль.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Проба_консоль\Проба_консоль\obj\x86\Debug\Проба_консоль.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Проба_консоль\Проба_консоль\obj\x86\Debug\Проба_консоль.pdb

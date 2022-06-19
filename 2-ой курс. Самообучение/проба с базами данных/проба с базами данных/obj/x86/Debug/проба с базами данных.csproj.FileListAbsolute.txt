@@ -1,0 +1,21 @@
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\проба с базами данных.exe.config
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\Database1.sdf
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\проба с базами данных.exe
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\проба с базами данных.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.exe
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\проба с базами данных.exe.manifest
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\bin\Debug\проба с базами данных.application
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.exe.manifest
+c:\users\алексей\documents\visual studio 2010\Projects\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.application
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\проба с базами данных\проба с базами данных\obj\x86\Debug\проба с базами данных.pdb

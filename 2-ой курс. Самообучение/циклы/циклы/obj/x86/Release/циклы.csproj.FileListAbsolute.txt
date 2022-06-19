@@ -1,0 +1,5 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\bin\Release\циклы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\bin\Release\циклы.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Release\циклы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Release\циклы.pdb

@@ -1,0 +1,15 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\bin\Debug\matric1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\bin\Debug\matric1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Debug\matric1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Debug\matric1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\matric1\matric1\bin\Debug\matric1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\matric1\matric1\bin\Debug\matric1.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\matric1\matric1\obj\x86\Debug\matric1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\matric1\matric1\obj\x86\Debug\matric1.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\matric1\matric1\obj\x86\Debug\matric1.pdb

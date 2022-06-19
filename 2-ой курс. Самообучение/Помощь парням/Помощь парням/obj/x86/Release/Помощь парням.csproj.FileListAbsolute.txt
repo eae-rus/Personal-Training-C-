@@ -1,0 +1,9 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\bin\Release\Помощь парням.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\bin\Release\Помощь парням.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\Помощь_парням.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\Помощь_парням.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\Помощь парням.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Помощь парням\obj\x86\Release\Помощь парням.pdb

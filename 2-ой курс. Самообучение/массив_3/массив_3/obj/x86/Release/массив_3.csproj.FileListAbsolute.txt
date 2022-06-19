@@ -1,0 +1,6 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\массив_3\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\bin\Release\массив_3.exe
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\bin\Release\массив_3.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Release\массив_3.exe
+c:\users\алексей\documents\visual studio 2010\Projects\массив_3\массив_3\obj\x86\Release\массив_3.pdb

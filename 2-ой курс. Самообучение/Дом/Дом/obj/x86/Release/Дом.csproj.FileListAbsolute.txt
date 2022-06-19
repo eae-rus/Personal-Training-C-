@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\Дом.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\Дом.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\bin\Release\Дом.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\bin\Release\Дом.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\Дом.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Дом\obj\x86\Release\Дом.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\Дом.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\Дом.pdb
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\Дом.Properties.Resources.resources
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\bin\Release\Дом.exe
+C:\Users\Алексей\documents\visual studio 2010\Projects\Дом\Дом\bin\Release\Дом.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Дом\Дом\obj\x86\Release\Дом.Описание_помещения.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\bin\Release\Дом.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\bin\Release\Дом.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.Описание_помещения.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Дом\Дом\obj\x86\Release\Дом.pdb

@@ -1,0 +1,5 @@
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат-проба\bin\Debug\Мат-проба.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат-проба\bin\Debug\Мат-проба.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат-проба\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат-проба\obj\x86\Debug\Мат-проба.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат-проба\obj\x86\Debug\Мат-проба.pdb

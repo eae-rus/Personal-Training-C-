@@ -1,0 +1,26 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\bin\Release\Деовой калькулятор.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\bin\Release\Деовой калькулятор.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\bin\Release\Деовой калькулятор.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\bin\Release\Деовой калькулятор.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\bin\Release\Деовой калькулятор.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\bin\Release\Деовой калькулятор.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой_калькулятор.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Деовой калькулятор\Деовой калькулятор\obj\x86\Release\Деовой калькулятор.pdb

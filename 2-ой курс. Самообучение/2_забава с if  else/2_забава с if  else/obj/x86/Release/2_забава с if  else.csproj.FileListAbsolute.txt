@@ -1,0 +1,9 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\bin\Release\2_забава с if  else.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\bin\Release\2_забава с if  else.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\_2_забава_с_if__else.Form1.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\_2_забава_с_if__else.Properties.Resources.resources
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\2_забава с if  else.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2_забава с if  else\obj\x86\Release\2_забава с if  else.pdb

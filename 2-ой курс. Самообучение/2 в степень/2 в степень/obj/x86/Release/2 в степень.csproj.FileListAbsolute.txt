@@ -1,0 +1,5 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\bin\Release\2 в степень.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\bin\Release\2 в степень.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Release\2 в степень.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\2 в степень\obj\x86\Release\2 в степень.pdb

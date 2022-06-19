@@ -1,0 +1,10 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\bin\Release\matric1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\bin\Release\matric1.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Release\matric1.exe
+c:\users\алексей\documents\visual studio 2010\Projects\matric1\matric1\obj\x86\Release\matric1.pdb

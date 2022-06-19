@@ -1,0 +1,17 @@
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\bin\Debug\Мат.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\bin\Debug\Мат.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\Мат.Form1.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\Мат.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\Мат.exe
+c:\users\алексей\documents\visual studio 2010\Projects\Мат\Мат\obj\x86\Debug\Мат.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\bin\Debug\Мат.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\bin\Debug\Мат.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.Form1.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.Properties.Resources.resources
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.csproj.GenerateResource.Cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\Мат\Мат\obj\x86\Debug\Мат.pdb

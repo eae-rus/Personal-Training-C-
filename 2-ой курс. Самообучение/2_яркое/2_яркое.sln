@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_яркое", "2_яркое\2_яркое.csproj", "{588571FD-A01B-4C0C-B2A9-67003E0D74AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588571FD-A01B-4C0C-B2A9-67003E0D74AA}.Debug|x86.ActiveCfg = Debug|x86
+		{588571FD-A01B-4C0C-B2A9-67003E0D74AA}.Debug|x86.Build.0 = Debug|x86
+		{588571FD-A01B-4C0C-B2A9-67003E0D74AA}.Release|x86.ActiveCfg = Release|x86
+		{588571FD-A01B-4C0C-B2A9-67003E0D74AA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

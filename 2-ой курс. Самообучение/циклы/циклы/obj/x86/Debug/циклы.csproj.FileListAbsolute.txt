@@ -1,0 +1,12 @@
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\bin\Debug\циклы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\bin\Debug\циклы.pdb
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Debug\циклы.exe
+C:\Users\Алексей\AppData\Local\Temporary Projects\циклы\obj\x86\Debug\циклы.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\циклы\циклы\obj\x86\Debug\циклы.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\циклы\циклы\obj\x86\Debug\циклы.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\циклы\циклы\bin\Debug\циклы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\циклы\циклы\bin\Debug\циклы.pdb
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\циклы\циклы\obj\x86\Debug\циклы.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\циклы\циклы\obj\x86\Debug\циклы.exe
+C:\Users\Алексей\OneDrive\Програмирование\С#\2-ой курс. Самообучение и не сказать, что там фигня какая-то\циклы\циклы\obj\x86\Debug\циклы.pdb

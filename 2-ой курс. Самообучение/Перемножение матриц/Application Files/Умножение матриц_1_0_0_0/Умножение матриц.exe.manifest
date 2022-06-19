@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Умножение матриц.exe" version="1.0.0.0" publicKeyToken="b644d66b776a416f" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Умножение матриц" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Умножение матриц.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+ -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Умножение матриц.exe" size="5632">
+      <assemblyIdentity name="Умножение матриц" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rcZx83rdIRVc2cBnO4LDEo5lR7c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Алексей-ПК\Алексей" issuerKeyHash="30e9d2afebe43a22617e8a549c1c2fc06efcd3c1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7hxEQqDioveN6+3/pwBJglZVwjA=</DigestValue></Reference></SignedInfo><SignatureValue>fr7CMctqWmZ4e2SAxJ+YVDmIMLqhbPoU0RawoXesuXFsFYIuPEcHsfloQVEUq1S8gtwrxKszWi5/aVGZcw106nmhiz8x0rc6Jl65r7AEgMSrD7DWibhn+HvPj8jYuJl56B0sj/p4RP/vyqBVJZInEBiOvLu/CO1R7crTrO/v96Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>skUjVvWInAsZcwL77QbcVdhYLBMg6xbK7jq88ulb24IMdEQmsaHR3BmQp6kWIk5GFWPxbIYtW0lAkfAXpmg5KnP6+gA0P0AOmtI4p7hkC4JN8zldVAopfvlo797hgRV9VgPvWudgzlMNc8RyIV/jw3se7l7NofZeFsVXsyPjI70=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="30c25556824900a7ffedeb8df7a2e2a042441cee" Description="" Url=""><as:assemblyIdentity name="Умножение матриц.exe" version="1.0.0.0" publicKeyToken="b644d66b776a416f" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Алексей-ПК\Алексей</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3dUD4kTqNoumXujVZcCSYDmOeKY=</DigestValue></Reference></SignedInfo><SignatureValue>WOvWgB/ub+nWUGFtsrJM88x9CDNCA3CmjGOEnx/SLDZdAh139wVEQg0iHcPkqfNz/6bpdMHGcB4+YNptuab73gWzBZTpKa7gY0XmAz15rOeVs3p4KmrT5j47Ek0UhibvzlSrf3m7nTwDOMAP4afBS1zyAvAeIdgLJWtFOXijabE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>skUjVvWInAsZcwL77QbcVdhYLBMg6xbK7jq88ulb24IMdEQmsaHR3BmQp6kWIk5GFWPxbIYtW0lAkfAXpmg5KnP6+gA0P0AOmtI4p7hkC4JN8zldVAopfvlo797hgRV9VgPvWudgzlMNc8RyIV/jw3se7l7NofZeFsVXsyPjI70=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQVyO0Ra+Gn6dFYSQ7w+eW4TANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQEEAQ7BDUEOgRBBDUEOQAtBB8EGgBcBBAEOwQ1BDoEQQQ1BDkwHhcNMTQwOTAyMTkxNTQxWhcNMTUwOTAzMDExNTQxWjAvMS0wKwYDVQQDHiQEEAQ7BDUEOgRBBDUEOQAtBB8EGgBcBBAEOwQ1BDoEQQQ1BDkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALJFI1b1iJwLGXMC++0G3FXYWCwTIOsWyu46vPLpW9uCDHREJrGh0dwZkKepFiJORhVj8WyGLVtJQJHwF6ZoOSpz+voAND9ADprSOKe4ZAuCTfM5XVQKKX75aO/e4YEVfVYD71rnYM5TDXPEciFf48N7Hu5ezaH2XhbFV7Mj4yO9AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAg9zpZFDPO8trngA9rchb2C9ZBNDZ/FlLsOaQJunYCNcPb8p0Xy+KkN7Bna7z+CDBCUZRAAmJfpCkRe1gs9O89av+j76ha7XviyOS2DkaAfvwbzCzgGwGKIqf5sXkaOffVpXSegGXo6BNMqFGd/eGTx7vxGQ6Nh7OaVqSAgsVSaw=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
